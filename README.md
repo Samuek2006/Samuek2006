@@ -1,45 +1,44 @@
-<h1 align="center">¡Hola! 👋 Soy Samuel Calderon — <i>S4mDev</i></h1>
-<h3 align="center">💻 Desarrollador en formación, apasionado por la tecnología ⚡</h3>
+<h1 align="center">Hello! 👋 I'm Samuel Calderon — <i>S4mDev</i></h1>
+<h3 align="center">💻 Developer in training, passionate about technology ⚡</h3>
 
 ---
 
-### 🌱 Sobre mí
+### 🌱 About Me
 
-- 🎯 Apasionado por el desarrollo **Web**, la **Automatización** y la **Inteligencia Artificial**
-- 🚀 Actualmente estoy aprendiendo **Python**
-- 🔧 Dominio de **HTML**, **CSS** y **JavaScript**
-- 🛠️ Construyendo mi portafolio personal... ¡pronto disponible!
+- 🎯 Passionate about **Web** development, **Automation**, and **Artificial Intelligence**
+- 🚀 Currently learning **Python**
+- 🔧 Skilled in **HTML**, **CSS**, and **JavaScript**
+- 🛠️ Building my personal portfolio... coming soon!
 
 ---
 
-### 🚀 Proyecto destacado
+### 🚀 Featured Project
 
-🧠 **Kliio** – App web en desarrollo  
+🧠 **Kliio** – Web app in development  
 🔗 [https://kliioapp.netlify.app](https://kliioapp.netlify.app/)
 
 ---
 
-### 🏅 Premios y reconocimientos
+### 🏅 Awards and Achievements
 
 <p>
-  <img src="https://img.shields.io/badge/Hackatón_Primer_Puesto-May_2025-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackatón_Tercer_Puesto-Jun_2025-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon_First_Place-May_2025-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon_Third_Place-Jun_2025-purple?style=for-the-badge" />
 </p>
 
-- 🥇 Primer Puesto – **Hackatón Bucaramanga**  
-  📅 22 y 23 de mayo de 2025  
-  🧠 Proyecto: **ORIENTE**  
-  📄 [Ver certificado](https://drive.google.com/file/d/1kc2Hptpy-6OXvRZB_7KkpKORbZPP7X_z/view?usp=sharing)
+- 🥇 First Place – **Hackathon Bucaramanga**  
+  📅 May 22–23, 2025  
+  🧠 Project: **ORIENTE**  
+  📄 [View certificate](https://drive.google.com/file/d/1kc2Hptpy-6OXvRZB_7KkpKORbZPP7X_z/view?usp=sharing)
 
-- 🥉 Tercer Puesto – **Hackatón Bucaramanga**  
-  📅 25 y 26 de junio de 2025  
-  🧠 Proyecto: **ORIENTE**  
-  📄 [Ver certificado](https://drive.google.com/file/d/1Tfa2o01GeCAaGLTz6aNJUDcgv1MLnOy_/view?usp=sharing)
-
+- 🥉 Third Place – **Hackathon Bucaramanga**  
+  📅 June 25–26, 2025  
+  🧠 Project: **ORIENTE**  
+  📄 [View certificate](https://drive.google.com/file/d/1Tfa2o01GeCAaGLTz6aNJUDcgv1MLnOy_/view?usp=sharing)
 
 ---
 
-### 📬 Contáctame
+### 📬 Contact Me
 
 <p>
   <a href="https://wa.me/573158940150" target="_blank">
@@ -47,11 +46,11 @@
   </a>
 </p>
 
-- 💼 Portafolio: *en construcción*
+- 💼 Portfolio: *under construction*
 
 ---
 
-### 🧰 Tecnologías y herramientas
+### 🧰 Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -62,7 +61,7 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samuek2006&show_icons=true&theme=default&hide_border=false&count_private=true" />
@@ -71,7 +70,7 @@
 
 ---
 
-### 🏆 Trofeos de GitHub
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Samuek2006&theme=flat&no-bg=true&column=7&margin-w=10" />
@@ -79,4 +78,4 @@
 
 ---
 
-> 🌗 Este perfil es adaptable al modo claro y oscuro de GitHub.
+> 🌗 This profile adapts to GitHub's light and dark mode.

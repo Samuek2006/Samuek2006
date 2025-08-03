@@ -41,7 +41,12 @@
 
 ### 📬 Contáctame
 
-- 📱 WhatsApp: **3158940150**
+<p>
+  <a href="https://wa.me/573158940150" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
 - 💼 Portafolio: *en construcción*
 
 ---

@@ -28,11 +28,14 @@
 
 - 🥇 Primer Puesto – **Hackatón Bucaramanga**  
   📅 22 y 23 de mayo de 2025  
-  🧠 Proyecto: **ORIENTE**
+  🧠 Proyecto: **ORIENTE**  
+  📄 [Ver certificado](https://drive.google.com/file/d/1kc2Hptpy-6OXvRZB_7KkpKORbZPP7X_z/view?usp=sharing)
 
 - 🥉 Tercer Puesto – **Hackatón Bucaramanga**  
   📅 25 y 26 de junio de 2025  
-  🧠 Proyecto: **ORIENTE**
+  🧠 Proyecto: **ORIENTE**  
+  📄 [Ver certificado](https://drive.google.com/file/d/1Tfa2o01GeCAaGLTz6aNJUDcgv1MLnOy_/view?usp=sharing)
+
 
 ---
 

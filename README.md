@@ -8,7 +8,6 @@
 - 🎯 Passionate about **Web** development, **Automation**, and **Artificial Intelligence**
 - 🚀 Currently learning **Python**
 - 🔧 Skilled in **HTML**, **CSS**, and **JavaScript**
-- 🛠️ Building my personal portfolio... coming soon!
 
 ---
 
@@ -46,7 +45,7 @@
   </a>
 </p>
 
-- 💼 Portfolio: *under construction*
+- 💼 Portfolio: 🔗 [https://portafoliosamdev.netlify.app/](https://portafoliosamdev.netlify.app/)
 
 ---
 

@@ -45,7 +45,7 @@
   </a>
 </p>
 
-- 💼 Portfolio: 🔗 [https://portafoliosamdev.netlify.app/](https://portafoliosamdev.netlify.app/)
+- 💼 Portfolio: 🔗 [https://portfolio-samdev.netlify.app/](https://portfolio-samdev.netlify.app/)
 
 ---
 

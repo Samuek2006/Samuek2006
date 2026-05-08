@@ -1,7 +1,11 @@
-<h1 align="center">Hello! 👋 I'm Samuel Calderón — <i>S4mDev</i></h1>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F75A&center=true&vCenter=true&width=900&lines=Hello!+%F0%9F%91%8B+I'm+Samuel+Calder%C3%B3n;Also+known+as+S4mDev;Full+Stack+Developer;Automation+%26+AI+Integrator" alt="Typing SVG" />
+
+</div>
 
 <h3 align="center">
-  Full Stack Developer focused on SaaS, Automation, and AI-powered systems
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+SaaS+platforms;Creating+AI-powered+automation+systems;Developing+real-world+business+solutions;Learning%2C+building%2C+and+scaling+software" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -23,6 +27,16 @@ I work mainly as a **Full Stack Developer**, combining frontend, backend, databa
 - ⚙️ Experience creating automation flows with **n8n** and AI-based assistants
 - 🏗️ Interested in clean architectures like **Hexagonal Architecture**, **DDD**, and modular frontend structures
 - 🚀 Currently improving my skills in **.NET**, **WebSockets**, backend architecture, and AI integrations
+
+---
+
+## ⚡ Currently Building
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=F97316&center=true&vCenter=true&width=850&lines=SaaS+platforms+for+companies;AI+support+chat+systems;Real-time+chat+with+WebSockets;LMS+and+training+platforms;WhatsApp+automation+flows" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -57,7 +71,13 @@ A web application currently in development, focused on digital solutions and use
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧰 Technical Inventory
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=A855F7&center=true&vCenter=true&width=800&lines=Backend;Frontend;Databases;Automation;Artificial+Intelligence;UI+Development" alt="Typing SVG" />
+
+</div>
 
 ### Backend
 
@@ -102,7 +122,7 @@ A web application currently in development, focused on digital solutions and use
 
 ---
 
-## 🧩 What I'm Currently Working On
+## 🧩 What I Like To Build
 
 - 🏢 SaaS platforms for businesses
 - 🧠 AI-powered support and automation systems
@@ -128,8 +148,8 @@ A web application currently in development, focused on digital solutions and use
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuek2006&show_icons=true&theme=default&hide_border=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuek2006&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuek2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuek2006&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -137,11 +157,13 @@ A web application currently in development, focused on digital solutions and use
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samuek2006&theme=flat&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samuek2006&theme=tokyonight&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
 
-<p align="center">
-  <i>Building software, automations, and AI-powered solutions for real-world problems.</i>
-</p>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=00F75A&center=true&vCenter=true&width=850&lines=Building+software+for+real-world+problems;Automating+business+processes;Creating+AI-powered+solutions;Always+learning%2C+always+building" alt="Typing SVG" />
+
+</div>
